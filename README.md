@@ -6,8 +6,7 @@
 <h2 align="center">¡Hey <span>👋</span> Soy <strong>Rubén Darío</strong> 🧑‍💻</h2>
 
 <p align="center">
-  Soy <strong>Soy Desarrollador Full Stack apasionado por la creación de soluciones innovadoras con **Python**, **JavaScript**, **React**, **Laravel** y más.  
-Disfruto construyendo aplicaciones web robustas, escalables y atractivas, combinando lo mejor del backend y frontend.
+
 
 ¡Explora mis proyectos destacados y descubre cómo la tecnología puede transformar ideas en realidad! 🚀
 </p>
@@ -18,7 +17,8 @@ Disfruto construyendo aplicaciones web robustas, escalables y atractivas, combin
 
 > “El código es como la magia: cuando funciona, transforma ideas en realidad.” ✨
 
-Soy un desarrollador apasionado por la tecnología, la educación y la creación de soluciones innovadoras. Me encanta aprender cosas nuevas, compartir mis conocimientos y colaborar en proyectos que marcan la diferencia.
+  Soy <strong>Soy Desarrollador Full Stack apasionado por la creación de soluciones innovadoras con **Python**, **JavaScript**, **React**, **Laravel** y más.  
+Disfruto construyendo aplicaciones web robustas, escalables y atractivas, combinando lo mejor del backend y frontend.
 
 ---
 
