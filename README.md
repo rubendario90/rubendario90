@@ -50,7 +50,7 @@ Disfruto construyendo aplicaciones web robustas, escalables y atractivas, combin
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rubendario90&label=Visitas&color=43e97b&style=flat"/>
+  <img src="https://[komarev.com/ghpvc](https://github.com/rubendario90)/?username=rubendario90&label=Visitas&color=43e97b&style=flat"/>
 </p>
 
 <sub align="center">¡Explora mis repositorios y conecta conmigo para crear algo increíble juntos!</sub>
