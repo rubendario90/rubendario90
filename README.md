@@ -17,8 +17,8 @@
 
 > “El código es como la magia: cuando funciona, transforma ideas en realidad.” ✨
 
-  Soy <strong>Soy Desarrollador Full Stack apasionado por la creación de soluciones innovadoras con **Python**, **JavaScript**, **React**, **Laravel** y más.  
-Disfruto construyendo aplicaciones web robustas, escalables y atractivas, combinando lo mejor del backend y frontend.
+<p>Soy Desarrollador Full Stack apasionado por la creación de soluciones innovadoras con **Python**, **JavaScript**, **React**, **Laravel** y más.  
+Disfruto construyendo aplicaciones web robustas, escalables y atractivas, combinando lo mejor del backend y frontend.<p>
 
 ---
 
