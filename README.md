@@ -50,7 +50,9 @@ Disfruto construyendo aplicaciones web robustas, escalables y atractivas, combin
 ---
 
 <p align="center">
-  <img src="https://[komarev.com/ghpvc](https://github.com/rubendario90)/?username=rubendario90&label=Visitas&color=43e97b&style=flat"/>
+  <a href="https://github.com/rubendario90">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub"/>
+  </a>
 </p>
 
 <sub align="center">¡Explora mis repositorios y conecta conmigo para crear algo increíble juntos!</sub>
