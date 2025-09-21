@@ -1,50 +1,69 @@
-**## Hi there 👋
+<!-- Banner animado o imagen (puedes cambiar el link por el tuyo) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=160&section=header&text=¡Hola,%20soy%20Rubén%20Darío!&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="banner"/>
+</p>
 
-<!--
-**rubendario90/rubendario90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" />
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">🚀 Desarrollador | Apasionado por la tecnología | Lifelong Learner 🚀</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-**# 👋 ¡Hola! Soy Rubén Darío
+---
 
-¡Bienvenido a mi perfil de GitHub!  
-Soy un desarrollador apasionado por la programación, la tecnología y la creación de soluciones innovadoras. Me gusta aprender cosas nuevas y compartir mis conocimientos a través de proyectos prácticos.
+## 🌟 Sobre mí
+
+> “El código es como la magia: cuando funciona, transforma ideas en realidad.” ✨
+
+Soy un desarrollador apasionado por la tecnología, la educación y la creación de soluciones innovadoras. Me encanta aprender cosas nuevas, compartir mis conocimientos y colaborar en proyectos que marcan la diferencia.
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-- 🎮 [Juego-sebastian](https://github.com/rubendario90/Juego-sebastian): Juego educativo para niños, pensado para aprender jugando.
-- 🛒 [JBSHOP](https://github.com/rubendario90/JBSHOP): Sistema completo de tienda online, ideal para pequeños comercios.
-- 🏪 [PuntoVentaMinimarket](https://github.com/rubendario90/PuntoVentaMinimarket): Aplicación de punto de venta para minimarkets.
-- 🐍 [python](https://github.com/rubendario90/python): Ejercicios y ejemplos prácticos en Python.
-- 💻 [curso-javascript](https://github.com/rubendario90/curso-javascript): Recursos y proyectos para aprender JavaScript desde cero.
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| 🎮 [Juego-sebastian](https://github.com/rubendario90/Juego-sebastian) | Juego educativo para niños, pensado para aprender jugando. | Python, Pygame |
+| 🛒 [JBSHOP](https://github.com/rubendario90/JBSHOP) | Sistema completo de tienda online, ideal para pequeños comercios. | JS, Node, Bootstrap |
+| 🏪 [PuntoVentaMinimarket](https://github.com/rubendario90/PuntoVentaMinimarket) | Aplicación de punto de venta para minimarkets. | Python, Tkinter |
+| 🐍 [python](https://github.com/rubendario90/python) | Ejercicios y ejemplos prácticos en Python. | Python |
+| 💻 [curso-javascript](https://github.com/rubendario90/curso-javascript) | Recursos y proyectos para aprender JavaScript desde cero. | JavaScript |
 
 ---
 
-## 🛠️ Habilidades
+## 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes:** Python, JavaScript
-- **Desarrollo web:** HTML, CSS, Bootstrap
-- **Bases de datos:** MySQL, SQLite
-- **Herramientas:** Git & GitHub, VSCode
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🧩 Fun Facts
+
+- 🎸 Toco guitarra en mis ratos libres.
+- 🚲 Me encanta salir a pedalear y descubrir nuevos lugares.
+- 📚 Siempre tengo un libro de tecnología en mi mesita de noche.
+- 🤝 ¡Listo para colaborar en nuevos proyectos y retos!
 
 ---
 
 ## 📫 ¿Cómo contactarme?
 
-- **Email:** rubendario90@gmail.com
-- **LinkedIn:** [linkedin.com/in/rubendario90](https://linkedin.com/in/rubendario90)
+<p>
+  <a href="mailto:rubendario90@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/rubendario90"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
-<sub>¡No dudes en explorar mis repositorios y conectar conmigo para colaborar en futuros proyectos!</sub>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rubendario90&label=Visitas&color=43e97b&style=flat"/>
+</p>
+
+<sub align="center">¡Explora mis repositorios y conecta conmigo para crear algo increíble juntos!</sub>
