@@ -1,13 +1,14 @@
-<!-- Banner animado o imagen (puedes cambiar el link por el tuyo) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=160&section=header&text=¡Hola,%20soy%20Rubén%20Darío!&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="banner"/>
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" />
 </p>
 
-<h2 align="center">🚀 Desarrollador | Apasionado por la tecnología | Lifelong Learner 🚀</h2>
+<h2 align="center">¡Hey <span>👋</span> Soy <strong>Rubén Darío</strong> 🧑‍💻</h2>
+
+<p align="center">
+  Soy <strong>Desarrollador Full Stack</strong> apasionado por Python y JavaScript.<br>
+  ¡Descubre mis proyectos y contenido destacado! 🚀
+</p>
 
 ---
 
