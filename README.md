@@ -40,15 +40,6 @@ Disfruto construyendo aplicaciones web robustas, escalables y atractivas, combin
 
 ---
 
-## 🧩 Fun Facts
-
-- 🎸 Toco guitarra en mis ratos libres.
-- 🚲 Me encanta salir a pedalear y descubrir nuevos lugares.
-- 📚 Siempre tengo un libro de tecnología en mi mesita de noche.
-- 🤝 ¡Listo para colaborar en nuevos proyectos y retos!
-
----
-
 ## 📫 ¿Cómo contactarme?
 
 <p>
