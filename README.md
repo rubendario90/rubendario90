@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" />
 </p>
@@ -9,7 +8,6 @@
 
 ---
 
-
 <p>Soy Desarrollador Full Stack apasionado por la creación de soluciones innovadoras con Python, JavaScript, React, Laravel y más.  
 Disfruto construyendo aplicaciones web robustas, escalables y atractivas, combinando lo mejor del backend y frontend.<p>
 
@@ -19,6 +17,8 @@ Disfruto construyendo aplicaciones web robustas, escalables y atractivas, combin
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
+| 🚚 [automuelles_pedidos](https://github.com/rubendario90/automuelles_pedidos) | Sistema de gestión y control de pedidos para el sector automotriz. | Python, Flask, MySQL |
+| 📦 [aplicacion_pedidos](https://github.com/rubendario90/aplicacion_pedidos) | Aplicación web para la administración de pedidos y clientes. | Python, Django, Bootstrap |
 | 🎮 [Juego-sebastian](https://github.com/rubendario90/Juego-sebastian) | Juego educativo para niños, pensado para aprender jugando. | Python, Pygame |
 | 🛒 [JBSHOP](https://github.com/rubendario90/JBSHOP) | Sistema completo de tienda online, ideal para pequeños comercios. | JS, Node, Bootstrap |
 | 🏪 [PuntoVentaMinimarket](https://github.com/rubendario90/PuntoVentaMinimarket) | Aplicación de punto de venta para minimarkets. | Python, Tkinter |
