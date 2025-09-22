@@ -17,8 +17,8 @@ Disfruto construyendo aplicaciones web robustas, escalables y atractivas, combin
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| 🚚 [automuelles_pedidos](https://github.com/rubendario90/automuelles_pedidos) | Sistema de gestión y control de pedidos para el sector automotriz. | Python, Flask, MySQL |
-| 📦 [aplicacion_pedidos](https://github.com/rubendario90/aplicacion_pedidos) | Aplicación web para la administración de pedidos y clientes. | Python, Django, Bootstrap |
+| 🚚 [automuelles_pedidos](https://github.com/rubendario90/automuelles_pedidos) | Sistema de gestión y control de pedidos para el sector automotriz.<br><br>**Estructura del Proyecto:**<br>**Backend (Laravel):** API RESTful para autenticación, gestión de usuarios, facturas, roles y entregas. Rutas protegidas y públicas. Base de datos gestionada mediante migraciones y seeders. Ubicación: `/Backend`.<br>**Frontend (React):** Interfaz de usuario moderna y responsiva. Consumo de la API mediante Axios. Componentes para login, registro, gestión de pedidos y más. Ubicación: `/Frontend`. | Laravel, React, MySQL, Axios |
+| 📦 [aplicacion_pedidos](https://github.com/rubendario90/aplicacion_pedidos) | Aplicación web para la administración de pedidos y clientes.<br><br>**Estructura del Proyecto:**<br>**Backend (PHP):** Gestión de lógica de negocio, autenticación y operaciones sobre pedidos y clientes.<br>**Frontend (HTML5, CSS3, JavaScript):** Interfaz intuitiva y responsiva, uso de JavaScript vanilla para la interactividad.<br>**Base de Datos:** MySQL.<br>**Librerías:** FPDF/FPDI para la generación de PDFs. | PHP, HTML5, CSS3, JavaScript, MySQL, FPDF/FPDI |
 | 🎮 [Juego-sebastian](https://github.com/rubendario90/Juego-sebastian) | Juego educativo para niños, pensado para aprender jugando. | Python, Pygame |
 | 🛒 [JBSHOP](https://github.com/rubendario90/JBSHOP) | Sistema completo de tienda online, ideal para pequeños comercios. | JS, Node, Bootstrap |
 | 🏪 [PuntoVentaMinimarket](https://github.com/rubendario90/PuntoVentaMinimarket) | Aplicación de punto de venta para minimarkets. | Python, Tkinter |
